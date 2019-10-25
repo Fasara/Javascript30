@@ -1,32 +1,32 @@
-html {
+  html {
   font-size: 12px;
-    background-color: #4a91ef;
-}
+  background-color: #4a91ef;
+  }
 
-body,html {
+  body,html {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
-}
+  }
 
 
-kbd {
+  kbd {
   display: block;
   height: 50px;
   width: 50px;
   background-color: #555;
   color: #ffa100;
   font-size: 40px;
-}
+  }
 
- .drum-kit{
+  .drum-kit{
   min-height: 100vh;
   align-items: center;
-}
+  }
 
-.keys {
+  .keys {
   display: flex;
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-}
+  }
