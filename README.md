@@ -1,2 +1,2 @@
-# DrumKit - Javascript30
+# DrumKit 
 Learning Javascript
